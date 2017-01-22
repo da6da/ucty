@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+
+body
+{
+    background: white;
+}
+
+.tb
+{
+    font-family: 'Verdana';
+    font-size: 8pt;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.he
+{
+    font-weight: bold;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+.err
+{
+    background-color: red;
+    border: 1px solid black;
+}
+
+.val
+{
+    text-align: right;
+    border: 1px solid black;
+}
+
+.kdy
+{
+    border: 1px solid black;
+}
+
+.jak
+{
+    text-align: center;
+    border: 1px solid black;
+}
+
+.suma
+{
+    text-align: right;
+    border: 1px solid black;
+}
+
+.popis
+{
+    border: 1px solid black;
+}
+
+.r0
+{
+}
+
+.r1
+{
+    background-color: lightblue;
+}
